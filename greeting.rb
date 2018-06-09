@@ -6,5 +6,9 @@ class Greeting
     "Hello, #{name}"
   end
 
+  def say_goodbye(name)
+    "Goodbye, #{name}"
+  end
+
 end
 
